@@ -26,6 +26,7 @@ set(msg_files
   "msg/BlockadeRelease.msg"
   "msg/BlockadeSet.msg"
   "msg/BlockadeStatus.msg"
+  "msg/CloberNegotiationNotice.msg"
   "msg/Circle.msg"
   "msg/ConvexShape.msg"
   "msg/ConvexShapeContext.msg"
